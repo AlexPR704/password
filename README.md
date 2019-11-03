@@ -10,9 +10,10 @@ Length, Character type, Special characters, Numeric characters, Lowercase charac
 The application should validate user input and ensure that at least one character type is selected.
 
 Once all prompts are answered, the user will be presented with a password matching the answered prompts. The password will be displayed in the text field and can also be copied to your clipboard.
-[screenshot of the app](screenshots/Screen Shot 2019-11-02 at 4.39.17 PM.png)
 
-[screenshot of the code](.screenshots/Screen Shot 2019-11-02 at 4.40.38 PM.png)
+![screenshot of the app](screenshots/app.png)
+
+![screenshot of the code](screenshots/coding.png)
 
 
 ## Business Context
@@ -26,6 +27,12 @@ This app can be very useful for anyone who needs a strong password. Large compan
 One website that I happen to use quite a bit to execute this portfolio is https://www.w3schools.com/html/. Your more than welcome to use them. Also https://www.freecodecamp.org/ has alot of material that helped out.
 I also would like to give credit toall the study groups that we had this week. They were able to show me more than one pair of eyes is able to break down a problem.
 Special credit goes to the team of instructors. Without their help; this portfolio wouldn't have been possible.
+
+## Submission on BCS
+
+
+
+
 ## License
 MIT License
 

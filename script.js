@@ -1,4 +1,4 @@
-// //generate random password
+//making our random variables
 var password = "";
 var lower = "abcdefghijklmnopqrstuvwxyz";
 var upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -7,7 +7,7 @@ var numbers = "1234567890";
 
 
 
-//making the questions
+//making the questions to ask the user
 var userChoice = prompt("How many characters will you like your password to be? Please provide range from 8-128.");
 
 if (userChoice >= 8 && userChoice <= 128) {
@@ -39,7 +39,7 @@ if (userChoice >= 8 && userChoice <= 128) {
     console.log(password)
 
 }
-
+//if the user tries not to use range we give them they will be alerted and the page will refresh
 else {
     confirm("Must be between 8-128!!!");
     document.location.reload()
@@ -61,7 +61,7 @@ function generate() {
 }
 
 
-
+//this will alert the user that the password has been copied to their clipboard
 function copyPassword() {
 
     document.getElementById("display").select();
