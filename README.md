@@ -30,8 +30,8 @@ Special credit goes to the team of instructors. Without their help; this portfol
 
 ## Submission on BCS
 
-
-
+* https://alexpr704.github.io/password/
+* https://github.com/AlexPR704/password.git
 
 ## License
 MIT License
