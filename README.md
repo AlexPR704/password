@@ -1,7 +1,7 @@
-Unit 03 JavaScript Homework: Password Generator
+# Unit 03 JavaScript Homework: Password Generator
 
 
-Description
+## Description
 
 I have created an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
@@ -9,25 +9,27 @@ The user will be prompted to choose from the following password criteria:
 Length, Character type, Special characters, Numeric characters, Lowercase characters, and Uppercase characters.
 The application should validate user input and ensure that at least one character type is selected.
 
-Once all prompts are answered, the user will be presented with a password matching the answered prompts. Displaying the generated password in an alert is acceptable, but attempt to write the password to the page instead.
+Once all prompts are answered, the user will be presented with a password matching the answered prompts. The password will be displayed in the text field and can also be copied to your clipboard.
+[screenshot of the app](.screenshots/Screen Shot 2019-11-02 at 4.39.17 PM.png)
 
-As a bonus, the user should also have the option to click a button to copy the password to their clipboard.
-
-Your application should have a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
-
-Your application should be deployed to GitHub Pages.
-
-Your application's GitHub repository should contain a README.md file explaining the purpose and functionality of the application. The README.md file should include a screenshot of the completed application as well as a link to the deployed GitHub Pages URL.
+[screenshot of the code](.screenshots/Screen Shot 2019-11-02 at 4.40.38 PM.png)
 
 
-# Credits
-One website that I happen to use quite a bit to execute this portfolio is https://www.w3schools.com/html/. Your more than welcome to use them.
-I also would like to give credit to the study group of guys who helped me out. Those guys were Thomas, Cleveland, and Devainte. They were able to show me more than one pair of eyes is able to break down a problem.
+## Business Context
+
+This app can be very useful for anyone who needs a strong password. Large companies that need to be able to save time and have an app that can genberate these random strong passwords would find this app to be very useful.
+
+
+
+
+## Credits
+One website that I happen to use quite a bit to execute this portfolio is https://www.w3schools.com/html/. Your more than welcome to use them. Also https://www.freecodecamp.org/ has alot of material that helped out.
+I also would like to give credit toall the study groups that we had this week. They were able to show me more than one pair of eyes is able to break down a problem.
 Special credit goes to the team of instructors. Without their help; this portfolio wouldn't have been possible.
-# License
+## License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2019] [Alexander Garcia]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
