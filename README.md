@@ -10,7 +10,7 @@ Length, Character type, Special characters, Numeric characters, Lowercase charac
 The application should validate user input and ensure that at least one character type is selected.
 
 Once all prompts are answered, the user will be presented with a password matching the answered prompts. The password will be displayed in the text field and can also be copied to your clipboard.
-[screenshot of the app](.screenshots/Screen Shot 2019-11-02 at 4.39.17 PM.png)
+[screenshot of the app](screenshots/Screen Shot 2019-11-02 at 4.39.17 PM.png)
 
 [screenshot of the code](.screenshots/Screen Shot 2019-11-02 at 4.40.38 PM.png)
 
